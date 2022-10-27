@@ -2,6 +2,4 @@ Esta es la historia de Luis Mendoza
 
 Tengo 24 años, soy Ingeniero de Petróleos & Data Scientist
 
-Me gusta aprender Futurama
-
-Carlos sabe un poco
+Me gusta aprender programación en Python
