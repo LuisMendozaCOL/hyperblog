@@ -1,3 +1,7 @@
 Mi nombre: Luis Armando Mendoza
 
 Edad: 24 años
+
+Correo: lamendozac@unal.edu.co
+
+Página GIT: LuisMendozaCOL
