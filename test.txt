@@ -4,4 +4,6 @@ Edad: 24 años
 
 Correo: lamendozac@unal.edu.co
 
+Estoy editando desde la consola de VIM
+
 Página GIT: LuisMendozaCOL
